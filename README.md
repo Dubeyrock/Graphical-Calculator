@@ -2,7 +2,8 @@
 
 
 
-<img src="dist/img/header.png" alt="x^3 + 6x^2 + x - 15" width="340">
+![header](https://github.com/user-attachments/assets/697cb821-df4f-4c36-9c33-fcc3561194fb)
+
 
 *Example graph of  y = x^3 + 6x^2 + x - 15*
 
