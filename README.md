@@ -1,9 +1,8 @@
 # 2D Graphing Calculator
 
+https://aaronhe7.github.io/graphing-calculator/
 
-
-![header](https://github.com/user-attachments/assets/697cb821-df4f-4c36-9c33-fcc3561194fb)
-
+<img src="dist/img/header.png" alt="x^3 + 6x^2 + x - 15" width="340">
 
 *Example graph of  y = x^3 + 6x^2 + x - 15*
 
@@ -83,8 +82,3 @@ Now we can use the calculator to answer two questions:
 To answer the first question, use the calculate root function and input a guess of *1*. This gives the root *x = 1.17082*, so the answer is 1.17082 seconds.
 
 For the second question, find the leftmost root with a guess of *-1*, which gives *x = -0.17082*. Now we can average the two times to get the time where the maximum height is achieved, which is at (1.17082 - 0.17082)/2 = 0.5 seconds. Now open the table tab to find that the *y* value at *x = 0.5* is *2.25*. Our answer is 2.25 meters after 0.5 seconds.
-
-![image](https://github.com/user-attachments/assets/68a0521b-80a0-47b7-ac3a-d0ee7a805bc7)
-
-![image](https://github.com/user-attachments/assets/d7cfdd00-b382-4c4d-b812-742821e07650)
-
